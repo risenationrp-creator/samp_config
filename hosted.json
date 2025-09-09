@@ -1,0 +1,18 @@
+{
+  "query": [
+    {
+      "serveronline": 1,
+      "success": true,
+      "data": {
+        "address": "191.96.224.79:8397,
+        "hostname": "RIO NATION",
+        "online_players": 78,
+        "maximum_online_players": 600,
+        "password": false,
+        "mode": "RolePlay",
+        "language": "Português",
+        "version": "0.3.7-R2"
+      }
+    }
+  ]
+}
