@@ -1,0 +1,14 @@
+[
+  {
+    "ip": "191.96.224.79:7897",
+    "hn": "Server 1",
+    "pc": 100,
+    "pm": 200,
+    "gm": "new",
+    "la": "PT-BR",
+    "pa": false,
+    "vn": "0.3.7-R2",
+    "omp": true,
+    "pr": false
+  }
+]
